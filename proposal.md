@@ -1,4 +1,4 @@
-## Static Visualization Proposal - Nursing Home Inspections
+## Interactive Visualization Proposal - Nursing Home Inspections US Map
 
 **Nadia Ghazali**
 
