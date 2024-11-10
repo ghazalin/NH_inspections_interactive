@@ -9,14 +9,14 @@ For my interactive visualization, I will build expand on my static visualization
 ## Example Visualizations
 -------------------------------
 
-https://theoceancleanup.com/sources/
-Core Interactive 
-Very similar to my goal. Here, each dot would represent a facility and hovering over a dot would provide additional information about the facility. 
+https://theoceancleanup.com/sources/ 
+
+Core Interactive: Very similar to my goal. Here, each dot would represent a facility and hovering over a dot would provide additional information about the facility. 
 
 
 https://www.medicare.gov/care-compare/?providerType=NursingHome
-Core Interactive 
-This is a map of nursing facilities with additional facility level information. I hope to incorporate a filter option like this map does. 
+
+Core Interactive: This is a map of nursing facilities with additional facility level information. I hope to incorporate a filter option like this map does. 
 
 
 ## Mockup 
